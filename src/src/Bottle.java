@@ -1,5 +1,4 @@
-public class something {
-    //attributes
+public class Bottle {
     int volume;
     String material;
 
